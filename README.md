@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Daniel, and I am starting to learn how to code!
 
 <!--
 **danielku9/danielku9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
